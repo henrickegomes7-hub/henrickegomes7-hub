@@ -55,10 +55,3 @@
 </picture>
 
 ###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/henrickegomes7-hub/henrickegomes7-hub/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://raw.githubusercontent.com/henrickegomes7-hub/henrickegomes7-hub/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
