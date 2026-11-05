@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<h4 data-importer="text" align="left">Desenvolvimento Web • Design de Interfaces • Full Stack em formação<br><br>Estudante de Análise e Desenvolvimento de Sistemas, com experiência profissional em design gráfico e foco em construir uma carreira como desenvolvedor full stack.<br><br>Estou desenvolvendo minha base em HTML e CSS, aplicando conhecimentos de composição, tipografia e hierarquia visual à criação de interfaces claras e funcionais.<br><br>Meu plano de aprendizado abrange JavaScript, back-end, bancos de dados, Git e GitHub, com atenção à experiência do usuário e às necessidades de negócio.<br><br>Neste perfil, compartilho projetos, estudos e minha evolução em desenvolvimento de software**, com foco em organização, documentação e aplicação prática.<br><br>📍 Campos dos Goytacazes, RJ — Brasil</h4>
+<h4 data-importer="text" align="left">Desenvolvimento Web • Design de Interfaces • Full Stack em formação<br><br>Cursando Engenharia de Software, com experiência profissional em design gráfico e foco em construir uma carreira como desenvolvedor full stack.<br><br>Estou desenvolvendo minha base em HTML e CSS, aplicando conhecimentos de composição, tipografia e hierarquia visual à criação de interfaces claras e funcionais.<br><br>Meu plano de aprendizado abrange JavaScript, back-end, bancos de dados, Git e GitHub, com atenção à experiência do usuário e às necessidades de negócio.<br><br>Neste perfil, compartilho projetos, estudos e minha evolução em desenvolvimento de software**, com foco em organização, documentação e aplicação prática.<br><br>📍 Campos dos Goytacazes, RJ — Brasil</h4>
 
 ###
 
