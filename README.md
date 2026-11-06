@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<h4 data-importer="text" align="left">Graduando em Análise e Desenvolvimento de Sistemas | HTML e CSS | Java Script |Design Gráfico |  Organização de Processos Administrativos | Em formação para atuar como Desenvolvedor Full Stack.</h4>
+<h4 data-importer="text" align="left">Graduando em Engenharia de Software | HTML e CSS | Java Script |Design Gráfico |  Organização de Processos Administrativos | Em formação para atuar como Desenvolvedor Full Stack.</h4>
 
 ###
 
